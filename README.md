@@ -5,6 +5,7 @@
 通过对简易的题目库和答案库的json文件进行检索，并进行各个人格类型的评分，选出最高分即为结果。
 
 以下为微信开发者工具结果画面：<br>
-![image](https://github.com/user-attachments/assets/b86b09e8-ecc8-4cd8-93ed-01b687d591f1)
-![image](https://github.com/user-attachments/assets/9c522109-f008-4b81-9a18-8cdcf84eb115)
-![image](https://github.com/user-attachments/assets/d083be7a-f649-480c-8f17-30473386f5ad)
+![image](https://github.com/user-attachments/assets/e5772c64-0a7f-4e9e-a641-9de5eaeb6251)
+![image](https://github.com/user-attachments/assets/6c2b1154-8875-428e-815c-f3e3b201bc7b)
+![image](https://github.com/user-attachments/assets/0b7278d6-f74e-4ae0-bc5f-22bc592060f2)
+
